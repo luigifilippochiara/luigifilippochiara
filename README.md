@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @luigifilippochiara
-- 👀 I’m interested in Deep Learning
-- 🌱 I’m currently learning Reinforcement Learning
-- 💞️ I’m looking to collaborate on Machine Learning projects
+- 💞️ I’m interested in Deep Learning and Computer Vision
 
 <!---
 luigifilippochiara/luigifilippochiara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
